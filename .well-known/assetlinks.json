@@ -1,1 +1,11 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "net.dawi.app.betadawi",
+    "sha256_cert_fingerprints": [
+      "A4:FC:AD:17:D0:F6:12:50:C0:89:5C:D1:88:EA:E3:E7:2A:E2:22:D2:37:5E:85:5C:ED:1B:72:FE:20:9B:A9:41",
+      "8D:F2:38:BF:EC:46:A7:65:4D:BA:AA:F3:92:56:6F:D3:47:FD:F6:89:58:5F:F5:08:95:1E:5A:9A:E2:1A:E3:1B"
+    ]
+  }
+}]
